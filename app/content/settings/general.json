@@ -2,8 +2,8 @@
   "title": "Home",
   "titleTemplate": "| Infinity Graphics",
   "welcomeText": "# Welcome to the new Infinity Graphics Page. Have a look around, though there isn't much yet.",
-  "logo": "/images/uploads/iglogo.svg",
-  "icon": "/images/uploads/iglogo.svg",
+  "logo": "/images/uploads/iglogo.jpg",
+  "icon": "/images/uploads/iglogo.jpg",
   "loadingColor": "#0b3765",
   "seoDescription": "A quickstart for Nuxt & Netlify CMS",
   "seoMetaImage": ""
